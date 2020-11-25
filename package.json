@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wetzelbe/bitpanda-hass/issues"
   },
-  "homepage": "https://github.com/wetzelbe/bitpanda-hass#readme"
+  "homepage": "https://github.com/wetzelbe/bitpanda-hass#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "mqtt": "^4.2.6"
+  }
 }
