@@ -54,5 +54,6 @@ function getDataAndPublish()
   
     req.end()
 }
+
 getDataAndPublish()
 setInterval(getDataAndPublish, 60*1000);
