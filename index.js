@@ -9,8 +9,8 @@ const reqoptions = {
 
 }
 
-const mqtt_hostname = 'localhost'
-const mqtt_port = 1883
+var mqtt_hostname = 'localhost'
+var mqtt_port = 1883
 
 if (process.env.MQTT_HOST != undefined) {
     mqtt_hostname = process.env.MQTT_HOST
