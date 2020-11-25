@@ -1,0 +1,20 @@
+{
+  "name": "bitpanda-hass",
+  "version": "1.0.0",
+  "description": "Docker Application to add prices of cryptocurrencies on bitpanda as sensors to the Home-Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wetzelbe/bitpanda-hass.git"
+  },
+  "author": "Benedict Wetzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wetzelbe/bitpanda-hass/issues"
+  },
+  "homepage": "https://github.com/wetzelbe/bitpanda-hass#readme"
+}
