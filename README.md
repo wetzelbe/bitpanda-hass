@@ -7,4 +7,4 @@ Docker Application to add prices of cryptocurrencies on bitpanda as sensors to t
 
 ## Run docker Container
 
-> sudo docker run --rm --env MQTT_HOST=<hostname> wetzelbe/bitpanda-hass
+> sudo docker run --rm --env MQTT_HOST=-hostname- wetzelbe/bitpanda-hass
